@@ -3,9 +3,6 @@
 #### What I do
 Software Engineer, currently working as a consultant
 
-#### Who I work for
-[Method Inc.](https://www.method.com/)
-
 #### What communities I'm a part of
 - Ambassador for [Crystal programming language](https://crystal-lang.org/)
 - Core team member for [Lucky](https://luckyframework.org/)
