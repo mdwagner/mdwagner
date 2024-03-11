@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### What I do
-Software Engineer, currently working as a consultant
+Senior Software Engineer
 
 #### What communities I'm a part of
 - Ambassador for [Crystal programming language](https://crystal-lang.org/)
