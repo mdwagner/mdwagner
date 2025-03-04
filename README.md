@@ -4,7 +4,7 @@
 Senior Software Engineer
 
 #### What communities I'm a part of
-- Ambassador for [Crystal programming language](https://crystal-lang.org/)
+- ~Ambassador for [Crystal programming language](https://crystal-lang.org/)~
 - Core team member for [Lucky](https://luckyframework.org/)
 
 <!--
